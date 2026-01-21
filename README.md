@@ -1,4 +1,4 @@
-# Grocery Shopping App
+# Grocery Shopping App - Full-Stack Web Application
 
 A complete full-stack .NET 9 Blazor Server application for managing grocery items. The application follows the controller/service/repository pattern with Entity Framework Core for persistence and includes a comprehensive test suite.
 
